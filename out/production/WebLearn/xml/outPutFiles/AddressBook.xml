@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<contact-list> 
+  <contact id="001" name="abc"> 
+    <name>aqie</name>  
+    <mobile>15533833058</mobile> 
+  </contact>  
+  <contact id="002"> 
+    <name>aqie123</name>  
+    <mobile>15533833057</mobile> 
+  </contact>  
+  <other> 
+    <name>john</name> 
+  </other> 
+</contact-list>
