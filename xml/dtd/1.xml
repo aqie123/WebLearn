@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--导入外部dtd标签-->
+<!DOCTYPE note SYSTEM "xml/dtd/note.dtd">
+<note>
+    <!--<to>bob</to>-->
+    <from>aqie</from>
+    <heading>Remind</heading>
+    <body id="a">i am body!</body>
+    <body id="abc">i am body!</body>
+</note>

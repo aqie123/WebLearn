@@ -32,8 +32,10 @@ public class AddressBook {
         this.mobile = mobile;
     }
 
+    /*
     @Override
     public String toString() {
         return "AddressBook[id="+id+",name="+name+",mobile="+mobile+"]";
     }
+    */
 }
