@@ -23,4 +23,30 @@
         2.事件:解析到(开始/结束)标签(包含属性) 文本内容
         3.监听器:DefaultHandler
 七：疑问
-    1.xml获取对象和属性
+    1.xml获取对象和属性 method3()
+八：dtd约束 ：相对简单的,数据类型简单的
+    1.hibernate  struts2
+    2. 内部 dtd
+    3. 外部 dtd
+    4. 类别
+        1.EMPTY 空标签
+        2.PCDATA 普通字符串(不能包含子标签)
+        3.ANY:可以包含子标签
+    5.数量问题
+        1.+ 一个或多个
+        2.* 0个或多个
+        3.? 0个或一个
+    6.约束属性
+        1.#REQUIRED  必须
+        2.#IMPLIED   非必须
+        3.fixed value 固定的
+    7.属性类型
+        1.CDATA:普通字符串
+        2.(en1|en2) : 枚举
+        3.
+        4.
+九：schema约束:相对复杂,功能强大,数据类型多 .xsd
+    1.名称空间 声明xml受到哪个scheme文件约束
+    2.xml文件 ： xmlns:名称空间="别名"
+                 xsi:schemeLocation="别名 地址(scheme.xsd)"
+     scheme: 
