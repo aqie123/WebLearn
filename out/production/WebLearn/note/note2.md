@@ -22,4 +22,9 @@
 二：Servlet extends HttpServlet类(导入tomcat服务器)
     1.http://localhost:8080/servlet/
     2.配置 web.xml 访问自定义 servlet
-        http://localhost:8080/servlet/hello
+        a.http://localhost:8080/servlet/hello
+        b.servlet对应的class文件拷贝到tomcat某个项目中(servlet/WEB-INF/classes)
+         记得拷贝包名 myServlet/DemoServlet.class
+    3.intellij 新建servlet
+        (http://blog.csdn.net/yhao2014/article/details/45740111)
+        (http://blog.csdn.net/antony9118/article/details/51800404)
